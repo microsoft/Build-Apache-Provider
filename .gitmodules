@@ -1,7 +1,7 @@
 [submodule "apache"]
 	path = apache
 	url = git@github.com:MSFTOSSMgmt/Apache-Provider.git
-	branch = develop
+	branch = master
 [submodule "pal"]
 	path = pal
 	url = git@github.com:MSFTOSSMgmt/pal.git
