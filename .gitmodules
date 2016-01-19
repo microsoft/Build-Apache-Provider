@@ -5,8 +5,8 @@
 [submodule "pal"]
 	path = pal
 	url = git@github.com:MSFTOSSMgmt/pal.git
-	branch = develop
+	branch = master
 [submodule "omi"]
 	path = omi
 	url = git@github.com:MSFTOSSMgmt/omi.git
-	branch = develop
+	branch = master
